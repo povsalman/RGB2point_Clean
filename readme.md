@@ -44,10 +44,12 @@ Change `image_path` and `save_path` in `inference.py` accrodingly.
 ## Reference
 If you find this paper and code useful in your research, please consider citing:
 ```bibtex
-@article{lee2024rgb2point,
-  title={RGB2Point: 3D Point Cloud Generation from Single RGB Images},
-  author={Lee, Jae Joong and Benes, Bedrich},
-  journal={arXiv preprint arXiv:2407.14979},
-  year={2024}
+@InProceedings{Lee_2025_WACV,
+    author    = {Lee, Jae Joong and Benes, Bedrich},
+    title     = {RGB2Point: 3D Point Cloud Generation from Single RGB Images},
+    booktitle = {Proceedings of the Winter Conference on Applications of Computer Vision (WACV)},
+    month     = {February},
+    year      = {2025},
+    pages     = {2952-2962}
 }
 ```
