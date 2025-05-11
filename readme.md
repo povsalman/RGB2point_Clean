@@ -39,7 +39,8 @@ python inference.py
 Change `image_path` and `save_path` in `inference.py` accrodingly.
 
 
-
+## update
+We have added support for the BlendedMVS Dataset with a custom DataLoader located in the notebooks folder. This integration enhances multi-view stereo capability for 3D reconstruction.
 
 ## Reference
 If you find this paper and code useful in your research, please consider citing:
