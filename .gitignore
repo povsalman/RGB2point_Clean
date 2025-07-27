@@ -1,0 +1,8 @@
+# ignore the dataset folder
+/ShapeNet_pointclouds
+/ShapeNetRendering
+/trained_models
+
+# ignore other files
+.DS_Store
+.vscode
